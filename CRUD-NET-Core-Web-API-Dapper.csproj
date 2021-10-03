@@ -5,4 +5,8 @@
     <RootNamespace>CRUD_NET_Core_Web_API_Dapper</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
